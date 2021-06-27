@@ -2,9 +2,9 @@
 
 Developer at @TOTVS.
 
-[![Twitter Badge](https://img.shields.io/badge/-@Gabr13l_Dev-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Gabr13l_DeV)](https://twitter.com/Gabr13l_DeV) 
-[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Almeida-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/)](https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/) 
-[![Outlook Badge](https://img.shields.io/badge/-gabriel.almeida.p@outlook.com-6633cc?style=flat-square&logo=outlook&logoColor=white&link=mailto:gabriel.almeida.p@outlook.com)](mailto:gabriel.almeida.p@outlook.com)
+[![Twitter Badge](https://img.shields.io/badge/-@Gabr13l_Dev-10b981cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/Gabr13l_DeV)](https://twitter.com/Gabr13l_DeV) 
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Almeida-10b981cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/)](https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/) 
+[![Outlook Badge](https://img.shields.io/badge/-gabriel.almeida.p@outlook.com-10b981cc?style=flat-square&logo=outlook&logoColor=white&link=mailto:gabriel.almeida.p@outlook.com)](mailto:gabriel.almeida.p@outlook.com)
 
 
 Passionate about technology and innovation.
