@@ -6,7 +6,7 @@ Desenvolvedor na maior empresa de Software do Brasil.
 ##
 
 Me chamo Gabriel, tenho 23 anos.
-Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas na Cruzeiro Virtual, com previsão de conclusão no ano de 2022.
+Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2023.
 
 Meu primeiro contato com TI foi trabalhando em um escritório de advocacia onde adquiri maioria dos meus conhecimentos de infraestrutura de redes e sistemas de tribunais, estagiei na Construsite Brasil desenvolvendo sites, blogs, sistemas web e lojas virtuais onde pude melhorar meus conhecimentos sobre programação (PHP, JavaScript, HTML, CSS e MySQL).
 
