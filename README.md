@@ -5,7 +5,7 @@ Desenvolvedor na maior empresa de Software do Brasil.
 
 ##
 
-Me chamo Gabriel, tenho 23 anos.
+Me chamo Gabriel, tenho 24 anos.
 Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2023.
 
 Meu primeiro contato com TI foi trabalhando em um escritório de advocacia onde adquiri maioria dos meus conhecimentos de infraestrutura de redes e sistemas de tribunais, estagiei na Construsite Brasil desenvolvendo sites, blogs, sistemas web e lojas virtuais onde pude melhorar meus conhecimentos sobre programação (PHP, JavaScript, HTML, CSS e MySQL).
@@ -22,7 +22,7 @@ Apaixonado por tecnologia e inovação.
 <div>
   <a href="https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabriel.alm31da.galo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gabriel.almeida.p@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabriel.almeida.p@outlook.com"><img src="https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/Gabr13l_DeV" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
  
 </div>
@@ -45,9 +45,7 @@ Apaixonado por tecnologia e inovação.
   <img align="center" alt="nodejs" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Mysql" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Oracle" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="MongoDB" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain-wordmark.svg">
   <img align="center" alt="Apache" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-plain-wordmark.svg">
-  <img align="center" alt="Nginx" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
   <img align="center" alt="Tailwind" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 <br>
