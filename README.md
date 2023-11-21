@@ -5,19 +5,19 @@ Desenvolvedor na maior empresa de Software do Brasil.
 
 ##
 
-Me chamo Gabriel, tenho 24 anos.
+Me chamo Gabriel, tenho 25 anos.
 Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2023.
 
 Meu primeiro contato com TI foi trabalhando em um escritório de advocacia onde adquiri maioria dos meus conhecimentos de infraestrutura de redes e sistemas de tribunais, estagiei na Construsite Brasil desenvolvendo sites, blogs, sistemas web e lojas virtuais onde pude melhorar meus conhecimentos sobre programação (PHP, JavaScript, HTML, CSS e MySQL).
 
 Fui responsável por toda parte de tecnologia da JHCG em Belo Horizonte e em suas filiais.
 
-Atualmente vivendo o sonho na TOTVS.
+Atualmente vivendo o sonho na TOTVS, criando ferramentas e sistemas internas para acelerar entregas e processos da area.
 
 Apaixonado por tecnologia e inovação.
 “Seu trabalho vai preencher uma parte grande da sua vida e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz.” Steve Jobs.
 
-
+“Para aprender a ter sucesso, é preciso primeiro aprender a fracassar.” Michael Jordan.
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
