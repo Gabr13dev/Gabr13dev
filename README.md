@@ -20,7 +20,7 @@ Comecei trabalhando com TI em um escritório de advocacia onde adquiri maioria d
 
 Tive a oportunidade de retornar ao escritorio de advocacia onde fui responsável por toda parte de tecnologia da JHCG na matriz em Belo Horizonte e em suas filiais até 2021.
 
-Desde de 2021 vivendo o sonho na TOTVS, criando ferramentas e sistemas internas para acelerar entregas e processos da area.
+Desde de 2021 vivendo o sonho na TOTVS, criando ferramentas e sistemas internos para acelerar entregas e processos da area.
 
 Apaixonado por tecnologia e inovação.
 >“Seu trabalho vai preencher uma parte grande da sua vida e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz.” Steve Jobs.
