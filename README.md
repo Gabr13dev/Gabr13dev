@@ -1,7 +1,7 @@
 # Gabriel de Almeida
 
-# Developer at @TOTVS.
-# Software Engineer at Brazil's premier IT enterprise
+Developer at @TOTVS.
+Software Engineer at Brazil's premier IT enterprise
 
 ##
 I am a dedicated software engineer at TOTVS, Brazil's leading IT company renowned for its cutting-edge solutions across diverse industries. Within this dynamic role, I am entrusted with crafting innovative software products and spearheading development initiatives that drive technological advancements and elevate our clients' experiences.
