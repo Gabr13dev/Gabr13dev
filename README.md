@@ -1,10 +1,18 @@
 # Gabriel de Almeida
 
-Developer at @TOTVS.
-Software Engineer
+# Developer at @TOTVS.
+# Software Engineer at Brazil's premier IT enterprise
 
 ##
-[PT-BR]
+I am a dedicated software engineer at TOTVS, Brazil's leading IT company renowned for its cutting-edge solutions across diverse industries. Within this dynamic role, I am entrusted with crafting innovative software products and spearheading development initiatives that drive technological advancements and elevate our clients' experiences.
+
+My responsibilities involve architecting robust systems, collaborating with multidisciplinary teams, and leveraging the latest technologies to create scalable, high-performance software solutions. By employing agile methodologies and staying abreast of emerging trends, I contribute to the seamless delivery of products that meet and exceed the evolving needs of our clientele.
+
+With a passion for continuous learning and problem-solving, I thrive in an environment that encourages creativity and fosters a culture of excellence. My aim is to consistently enhance my skill set, leveraging my expertise to contribute significantly to TOTVS's mission of revolutionizing the IT landscape in Brazil and beyond.
+
+# [PT-BR]
+# Sobre mim
+##
 Me chamo Gabriel, tenho 25 anos.
 Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2024.
 
@@ -19,8 +27,9 @@ Apaixonado por tecnologia e inovação.
 
 “Para aprender a ter sucesso, é preciso primeiro aprender a fracassar.” Michael Jordan.
 
+# [EN]
+# About me
 ##
-[EN]
 My name is Gabriel, I'm 25 years old.
 Completed technical education in IT at Cotemig College, gaining knowledge about Web Development in PHP and ASP.NET, Software Development in C# and Networks and Computer Architecture, currently studying Systems Analysis and Development with expected completion in 2024.
 
