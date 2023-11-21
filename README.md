@@ -1,23 +1,41 @@
 # Gabriel de Almeida
 
 Developer at @TOTVS.
-Desenvolvedor na maior empresa de Software do Brasil.
+Software Engineer
 
 ##
-
+[PT-BR]
 Me chamo Gabriel, tenho 25 anos.
-Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2023.
+Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2024.
 
-Meu primeiro contato com TI foi trabalhando em um escritório de advocacia onde adquiri maioria dos meus conhecimentos de infraestrutura de redes e sistemas de tribunais, estagiei na Construsite Brasil desenvolvendo sites, blogs, sistemas web e lojas virtuais onde pude melhorar meus conhecimentos sobre programação (PHP, JavaScript, HTML, CSS e MySQL).
+Comecei trabalhando com TI em um escritório de advocacia onde adquiri maioria dos meus conhecimentos de infraestrutura de redes e sistemas de tribunais, estagiei na Construsite Brasil desenvolvendo sites, blogs, sistemas web e lojas virtuais onde pude melhorar meus conhecimentos sobre programação (PHP, JavaScript, HTML, CSS e MySQL).
 
-Fui responsável por toda parte de tecnologia da JHCG em Belo Horizonte e em suas filiais.
+Tive a oportunidade de retornar ao escritorio de advocacia e fui responsável por toda parte de tecnologia da JHCG em Belo Horizonte e em suas filiais até 2021.
 
-Atualmente vivendo o sonho na TOTVS, criando ferramentas e sistemas internas para acelerar entregas e processos da area.
+Desde de 2021 vivendo o sonho na TOTVS, criando ferramentas e sistemas internas para acelerar entregas e processos da area.
 
 Apaixonado por tecnologia e inovação.
 “Seu trabalho vai preencher uma parte grande da sua vida e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz.” Steve Jobs.
 
 “Para aprender a ter sucesso, é preciso primeiro aprender a fracassar.” Michael Jordan.
+
+##
+[EN]
+My name is Gabriel, I'm 25 years old.
+Completed technical education in IT at Cotemig College, gaining knowledge about Web Development in PHP and ASP.NET, Software Development in C# and Networks and Computer Architecture, currently studying Systems Analysis and Development with expected completion in 2024.
+
+I started working with IT at a law firm where I acquired most of my knowledge of network infrastructure and court systems, I interned at Construsite Brasil developing websites, blogs, web systems and virtual stores where I was able to improve my knowledge of programming (PHP, JavaScript, HTML, CSS and MySQL).
+
+I had the opportunity to return to the law office and was responsible for all technology at JHCG in Belo Horizonte and its branches until 2021.
+
+Since 2021, living the dream at TOTVS, creating internal tools and systems to speed up deliveries and processes in our tribe.
+
+Passionate about technology and innovation.
+
+“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” Steve Jobs.
+
+“To learn to succeed, you must first learn to fail.” Michael Jordan.
+
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
