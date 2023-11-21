@@ -18,7 +18,7 @@ Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecime
 
 Comecei trabalhando com TI em um escritório de advocacia onde adquiri maioria dos meus conhecimentos de infraestrutura de redes e sistemas de tribunais, estagiei na Construsite Brasil desenvolvendo sites, blogs, sistemas web e lojas virtuais onde pude melhorar meus conhecimentos sobre programação (PHP, JavaScript, HTML, CSS e MySQL).
 
-Tive a oportunidade de retornar ao escritorio de advocacia e fui responsável por toda parte de tecnologia da JHCG em Belo Horizonte e em suas filiais até 2021.
+Tive a oportunidade de retornar ao escritorio de advocacia onde fui responsável por toda parte de tecnologia da JHCG na matriz em Belo Horizonte e em suas filiais até 2021.
 
 Desde de 2021 vivendo o sonho na TOTVS, criando ferramentas e sistemas internas para acelerar entregas e processos da area.
 
