@@ -1,17 +1,18 @@
 # Gabriel de Almeida
 
-<p>Developer at @TOTVS.</p>
-<p>Software Engineer at Brazil's premier IT enterprise</p>
++ Developer at @TOTVS.<br>
++ Software Engineer at Brazil's premier IT enterprise
 
-##
+<p>
 I am a dedicated software engineer at TOTVS, Brazil's leading IT company renowned for its cutting-edge solutions across diverse industries. Within this dynamic role, I am entrusted with crafting innovative software products and spearheading development initiatives that drive technological advancements and elevate our clients' experiences.
 
 My responsibilities involve architecting robust systems, collaborating with multidisciplinary teams, and leveraging the latest technologies to create scalable, high-performance software solutions. By employing agile methodologies and staying abreast of emerging trends, I contribute to the seamless delivery of products that meet and exceed the evolving needs of our clientele.
 
 With a passion for continuous learning and problem-solving, I thrive in an environment that encourages creativity and fosters a culture of excellence. My aim is to consistently enhance my skill set, leveraging my expertise to contribute significantly to TOTVS's mission of revolutionizing the IT landscape in Brazil and beyond.
+</p>
 
 # Sobre mim - [PT-BR]
-##
+<p>
 Me chamo Gabriel, tenho 25 anos.
 Conclui o ensino técnico em Informática no colégio Cotemig, obtendo conhecimento sobre Desenvolvimento Web em PHP e ASP.NET, Desenvolvimento de Softwares em C# e Redes e Arquitetura de Computadores, atualmente cursando Análise e Desenvolvimento de Sistemas com previsão de conclusão no ano de 2024.
 
@@ -22,12 +23,14 @@ Tive a oportunidade de retornar ao escritorio de advocacia e fui responsável po
 Desde de 2021 vivendo o sonho na TOTVS, criando ferramentas e sistemas internas para acelerar entregas e processos da area.
 
 Apaixonado por tecnologia e inovação.
-“Seu trabalho vai preencher uma parte grande da sua vida e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz.” Steve Jobs.
+>“Seu trabalho vai preencher uma parte grande da sua vida e a única maneira de ficar realmente satisfeito é fazer o que você acredita ser um ótimo trabalho. E a única maneira de fazer um excelente trabalho é amar o que você faz.” Steve Jobs.
 
-“Para aprender a ter sucesso, é preciso primeiro aprender a fracassar.” Michael Jordan.
+>“Para aprender a ter sucesso, é preciso primeiro aprender a fracassar.” Michael Jordan.
+</p>
+
 
 # About me - [EN]
-##
+<p>
 My name is Gabriel, I'm 25 years old.
 Completed technical education in IT at Cotemig College, gaining knowledge about Web Development in PHP and ASP.NET, Software Development in C# and Networks and Computer Architecture, currently studying Systems Analysis and Development with expected completion in 2024.
 
@@ -39,10 +42,10 @@ Since 2021, living the dream at TOTVS, creating internal tools and systems to sp
 
 Passionate about technology and innovation.
 
-“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” Steve Jobs.
+>“Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.” Steve Jobs.
 
-“To learn to succeed, you must first learn to fail.” Michael Jordan.
-
+>“To learn to succeed, you must first learn to fail.” Michael Jordan.
+</p>
 
 <div>
   <a href="https://www.linkedin.com/in/gabriel-de-almeida-5bb7a614a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
